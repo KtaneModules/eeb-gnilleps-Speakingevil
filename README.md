@@ -1,1 +1,1 @@
-# eeb-gnilleps
+#[ModKit Wiki](../../wiki)
